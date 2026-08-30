@@ -12,14 +12,6 @@
 
 
 
-
-
-
-
-
-
-# 🎯 Exercícios de Faculdade — Linguagem C
-
 Repositório dedicado aos exercícios, algoritmos e atividades práticas das aulas.
 
 ---
